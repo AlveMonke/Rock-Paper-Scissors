@@ -9,11 +9,16 @@
     user-select: none;
 }
 
+html,
 body {
-    width: 100vw;
-    height: 95vh;
+    position: fixed;
+    top: 0;
+    left: 0;
     overflow: hidden;
+    width: 100vw;
+    height: 100vh;
 }
+
 
 .background {
     position: absolute;
