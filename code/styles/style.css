@@ -11,7 +11,8 @@
 
 body {
     width: 100vw;
-    height: -webkit-fill-available;
+    height: 95vh;
+    overflow: hidden;
 }
 
 .background {
