@@ -172,7 +172,7 @@ body {
 }
 
 .rules {
-    position: absolute;
+    position: fixed;
     right: 5%;
     bottom: 5%;
     display: inline;
@@ -280,7 +280,7 @@ body {
         padding: 2vh 10vw;
         letter-spacing: 0.7vw;
         border-radius: 1.4vw;
-        position: absolute;
+        position: fixed;
         right: 50%;
         bottom: 5%;
         transform: translate(50%, 0);
@@ -342,7 +342,7 @@ body {
         padding: 2vh 10vw;
         letter-spacing: 0.7vw;
         border-radius: 1.4vw;
-        position: absolute;
+        position: fixed;
         right: 50%;
         bottom: 5%;
         transform: translate(50%, 0);
@@ -433,7 +433,7 @@ body {
         padding: 1.5vh 10vw;
         letter-spacing: 0.7vw;
         border-radius: 2.5vw;
-        position: absolute;
+        position: fixed;
         right: 50%;
         bottom: 5%;
         transform: translate(50%, 0);
