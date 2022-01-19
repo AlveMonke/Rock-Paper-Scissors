@@ -16,6 +16,10 @@ body {
     height: 100vh;
 }
 
+body {
+    position: relative;
+}
+
 .background {
     position: absolute;
     min-width: 100%;
