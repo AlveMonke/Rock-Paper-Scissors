@@ -3,6 +3,7 @@ const scoreVal = document.querySelector("#score-val");
 
 let points = 0;
 
+window.scrollTo(0, document.body.scrollHeight);
 onOpenScore();
 
 rulesEle.onclick = (e) => {
