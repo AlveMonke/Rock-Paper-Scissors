@@ -13,12 +13,12 @@ html,
 body {
     overflow: hidden;
     width: 100vw;
-    height: 100vh;
+    height: calc(100vh - 60px);
 }
 
 body {
     position: relative;
-    padding-bottom: 60px;
+    /* padding-bottom: 60px; */
 }
 
 .background {
